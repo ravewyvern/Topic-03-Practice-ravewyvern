@@ -6,10 +6,12 @@ class Main {
     int num1 = 5;
 
     // Next, create another integer variable named num2 and assign it the value 12.
+    int num2 = 12;
     
     // Then, declare integer variable named answer to store the sum of num1 and num2.
+    int answer = num1 + num2;
 
     // Finally, display the answer variable in the console, using a println statement.
-    
+    System.out.println(answer);
   }
 }
